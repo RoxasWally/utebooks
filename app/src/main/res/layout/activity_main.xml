@@ -101,7 +101,7 @@
                     android:layout_height="100dp">
 
                     <ImageView
-                        android:src="@drawable/timetable"
+                        android:src="@drawable/calendar"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -156,7 +156,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center_horizontal"
-                        android:src="@drawable/clock" />
+                        android:src="@drawable/gear" />
 
                     <TextView
                         android:text="Lovely"
